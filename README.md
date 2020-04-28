@@ -1,4 +1,4 @@
-Train and deploy model (draft)
+Train and deploy model 
 ==
 
 This package contains a working version of model that can be packaged to a docker image and deployed as a sakemaker endpoint
