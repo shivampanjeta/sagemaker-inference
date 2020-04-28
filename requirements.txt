@@ -1,0 +1,8 @@
+torch==1.0.1
+transformers==2.2.2
+bert-extractive-summarizer==0.4.2
+pandas
+flask
+gevent
+gunicorn
+pyopenssl
